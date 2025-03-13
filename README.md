@@ -43,13 +43,13 @@ A robust, cross-platform backup management solution designed to provide secure, 
 ![Backup Config](./Screenshots/backup_config.png)
 
 ### Schedule Configuration
-![Schedule Management](./Screenshots/schedule_config.png)
+![Schedule Management](./Screenshots/schedule_config.PNG)
 
 ### Schedule Management
-![Schedule Management](./Screenshots/schedules_management.png)
+![Schedule Management](./Screenshots/schedules_management.PNG)
 
 ### Google Drive Integration
-![Google Drive](./Screenshots/google_drive_integration.png)
+![Google Drive](./Screenshots/google_drive_integration.PNG)
 
 ## 🚀 Quick Start
 
