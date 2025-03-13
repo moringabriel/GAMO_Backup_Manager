@@ -40,16 +40,16 @@ A robust, cross-platform backup management solution designed to provide secure, 
 ## 🖥 Screenshots
 
 ### Main Dashboard
-![Main Dashboard](/screenshots/main_dashboard.png)
+![Main Dashboard](./screenshots/main_dashboard.png)
 
 ### Backup Configuration
-![Backup Config](/screenshots/backup_config.png)
+![Backup Config](./screenshots/backup_config.png)
 
 ### Schedule Management
-![Schedule Management](/screenshots/schedule_management.png)
+![Schedule Management](./screenshots/schedule_management.png)
 
 ### Google Drive Integration
-![Google Drive](/screenshots/google_drive_integration.png)
+![Google Drive](./screenshots/google_drive_integration.png)
 
 ## 🚀 Quick Start
 
