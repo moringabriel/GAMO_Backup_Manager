@@ -49,7 +49,7 @@ Simply drag and drop folders from your file explorer directly into the "Source" 
 The system will validate the paths to ensure they are accessible and valid.
 
 ### Advanced Backup Options:
-- Skip Files: Configure rules to exclude specific files or file types from your backup.
+- Skip errors: Configure rules to exclude specific files or file types from your backup.
 - Checksum Verification: Enable checksums to ensure data integrity during the backup process. This verifies that your backed-up files are identical to the original source files.
 - Compression: Reduce the size of your backup files with compression, saving storage space.
 - Encryption: Protect your sensitive data with strong encryption, ensuring that only authorized users can access your backups.
