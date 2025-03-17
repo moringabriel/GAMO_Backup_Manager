@@ -46,11 +46,13 @@ Tailor your backup process to your exact needs with the following configuration 
 Source and Destination Selection:
 Simply drag and drop folders from your file explorer directly into the "Source" and "Destination" fields.
 The system will validate the paths to ensure they are accessible and valid.
+
 Advanced Backup Options:
 Skip Files: Configure rules to exclude specific files or file types from your backup.
 Checksum Verification: Enable checksums to ensure data integrity during the backup process. This verifies that your backed-up files are identical to the original source files.
 Compression: Reduce the size of your backup files with compression, saving storage space.
 Encryption: Protect your sensitive data with strong encryption, ensuring that only authorized users can access your backups.
+
 Google Drive Integration:
 Connect your Google Drive account to seamlessly back up your data to the cloud.
 Easily authenticate and select folders within google drive as a destination.
@@ -91,7 +93,5 @@ Suitable for users who require advanced features or have specific authorization 
 ## 🚀 Installation and Usage
 
 1.  Download the GAMO Backup Manager executable from [[Your Download Link](https://drive.google.com/drive/folders/1mDjHMLS9J6eKggo8z3kfggRr31gpEIIu?usp=sharing)].
-2.  Run the installer or executable file.
-3.  Follow the on-screen instructions to complete the installation.
 4.  Launch the GAMO Backup Manager application.
 5.  Configure your backup settings and schedules.
