@@ -80,7 +80,7 @@ The system will validate the paths to ensure they are accessible and valid.
 ### Seamlessly manage schedules:
 - Schedule Activation: Enable or disable scheduled backups with a simple toggle.
 - Immediate Execution: "Run Now" allows you to instantly trigger a scheduled backup, regardless of its scheduled time.
-- Schedule Editing: "Edit" provides access to modify all settings of an existing schedule, including name, frequency, and options.
+- Schedule Editing: "Edit" provides access to modify all settings of an existing schedule, including name, frequency, and state.
 - Schedule Removal: "Delete" permanently removes a selected backup schedule.
 
 
@@ -103,6 +103,6 @@ The system will validate the paths to ensure they are accessible and valid.
 
 
 ## 🚀 Installation and Usage
-1.  Download the GAMO Backup Manager executable from [[Your Download Link](https://drive.google.com/drive/folders/1mDjHMLS9J6eKggo8z3kfggRr31gpEIIu?usp=sharing)].
+1.  Download the GAMO Backup Manager executable from [[GAMO Backup Manager 0.1.40](https://drive.google.com/drive/folders/1mDjHMLS9J6eKggo8z3kfggRr31gpEIIu?usp=sharing)].
 4.  Launch the GAMO Backup Manager application.
 5.  Configure your backup settings and schedules.
