@@ -62,34 +62,45 @@ The system will validate the paths to ensure they are accessible and valid.
 - Backup Now: Initiate an immediate backup with the current configuration.
 - Create New Schedule: Set up a recurring backup schedule with customizable frequency (daily, weekly, monthly) and time.
 
+
 ### Schedule Configuration
+
 ![Schedule Management](./Screenshots/schedule_config.PNG)
 
-Create New Schedule:
+### Create New Schedule:
 - Schedule Name: Enter a unique identifier for this backup schedule. The system will ensure that schedule names are unique.
 - Frequency: Select the backup frequency: daily, weekly, or monthly.
 - Enable on Save: Check this option to activate the schedule immediately upon saving, or leave it unchecked to enable it manually later.
 
+
 ### Schedule Management
+
 ![Schedule Management](./Screenshots/schedules_management.PNG)
 
+### Seamlessly manage schedules:
 - Schedule Activation: Enable or disable scheduled backups with a simple toggle.
 - Immediate Execution: "Run Now" allows you to instantly trigger a scheduled backup, regardless of its scheduled time.
 - Schedule Editing: "Edit" provides access to modify all settings of an existing schedule, including name, frequency, and options.
 - Schedule Removal: "Delete" permanently removes a selected backup schedule.
 
+
 ### Google Drive Integration
+
 ![Google Drive](./Screenshots/google_drive_integration.PNG)
 
 ### Seamlessly integrate Google Drive for cloud backups with two authorization options:
+### Easy 
 - Simple Authorization (Preconfigured Widget):
 - Connect your Google Drive account with a simple, preconfigured authorization widget.
 - Ideal for users who want a quick and easy setup.
-- Limited to connecting a maximum of two Google Drive accounts.
+- Limited to connecting a maximum of two Google Drive preconfigured accounts.
+
+### Power
 - Advanced Authorization (Custom API Credentials):
 - Use your own Google Drive API credentials for full control and flexibility.
 - Allows for unlimited Google Drive account integration.
 - Suitable for users who require advanced features or have specific authorization needs.
+
 
 ## 🚀 Installation and Usage
 1.  Download the GAMO Backup Manager executable from [[Your Download Link](https://drive.google.com/drive/folders/1mDjHMLS9J6eKggo8z3kfggRr31gpEIIu?usp=sharing)].
