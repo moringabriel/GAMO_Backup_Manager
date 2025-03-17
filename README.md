@@ -1,5 +1,7 @@
 # GAMO Backup Manager
 
+Download the GAMO Backup Manager executable from [[GAMO Backup Manager 0.1.40](https://drive.google.com/drive/folders/1mDjHMLS9J6eKggo8z3kfggRr31gpEIIu?usp=sharing)].
+  
 ## 🚀 Project Overview
 A robust, cross-platform backup management solution designed to provide secure, flexible, and intelligent data backup capabilities.
 
