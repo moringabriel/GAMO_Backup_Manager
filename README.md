@@ -50,6 +50,18 @@ Source and Destination Selection:
 Simply drag and drop folders from your file explorer directly into the "Source" and "Destination" fields.
 The system will validate the paths to ensure they are accessible and valid.
 
+## 🛡️ Data Protection
+
+**Important:** To ensure the safety of your data, always back up to a device or location that is separate from your primary device. This protects your data in case of hardware failure, accidental deletion, or other unforeseen issues.
+
+Consider the following backup destinations:
+
+* External Hard Drives
+* Network-Attached Storage (NAS) Devices
+* Cloud Storage (Google Drive, etc.)
+
+Regularly verify your backups to ensure they are working correctly.
+
 ### Advanced Backup Options:
 - Skip errors: Configure rules to exclude specific files or file types from your backup.
 - Checksum Verification: Enable checksums to ensure data integrity during the backup process. This verifies that your backed-up files are identical to the original source files.
