@@ -117,6 +117,6 @@ Regularly verify your backups to ensure they are working correctly.
 
 
 ## 🚀 Installation and Usage
-1.  Download the GAMO Backup Manager executable from [[GAMO Backup Manager 0.1.40](https://drive.google.com/drive/folders/1mDjHMLS9J6eKggo8z3kfggRr31gpEIIu?usp=sharing)].
+1.  Download the GAMO Backup Manager executable from [[GAMO Backup Manager 0.1.41](https://drive.google.com/drive/folders/1mDjHMLS9J6eKggo8z3kfggRr31gpEIIu?usp=sharing)].
 4.  Launch the GAMO Backup Manager application.
 5.  Configure your backup settings and schedules.
