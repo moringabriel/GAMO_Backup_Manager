@@ -50,7 +50,7 @@ Source and Destination Selection:
 Simply drag and drop folders from your file explorer directly into the "Source" and "Destination" fields.
 The system will validate the paths to ensure they are accessible and valid.
 
-## 🛡️ Data Protection
+## Data Protection
 
 **Important:** To ensure the safety of your data, always back up to a device or location that is separate from your primary device. This protects your data in case of hardware failure, accidental deletion, or other unforeseen issues.
 
